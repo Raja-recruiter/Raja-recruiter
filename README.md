@@ -4,7 +4,7 @@
 - 💞️ I’m looking for talented engineers
 - 📫 How to reach me raja.abid@tmc-employeneurs.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Born in Friday the 13th
+- ⚡ Fun fact: Born on Friday the 13th
 
 <!---
 Raja-recruiter/Raja-recruiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
